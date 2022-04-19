@@ -1,3 +1,3 @@
 AR.3D
 
-https://Yama-Ak.github.io/3D-TEST-M/test_marker.html
+https://Yama-Ak.github.io/AR.3D/test_marker.html
