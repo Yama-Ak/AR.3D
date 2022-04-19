@@ -1,7 +1,7 @@
 # AR.3D
 
-https://Yama-Ak.github.io/AR.3D/test_marker.html
+https://Yama-Ak.github.io/AR.3D/test_gps.html
 
-＞マーカー読込で建築物（灯台）表示
+＞ロケーションベース表示 緯度：経度
 
-＞TEST0420
+＞TEST0421
